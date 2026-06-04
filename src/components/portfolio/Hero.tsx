@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import { ParticleField } from "./ParticleField";
+import resumeAsset from "@/assets/Shivasai_Resume.pdf.asset.json";
+
 
 const ROLES = [
   "B.Tech CSE (AI & ML) Student",
