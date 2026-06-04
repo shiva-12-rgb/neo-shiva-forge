@@ -80,7 +80,7 @@ export function Contact() {
               value="github.com/shiva-12-rgb"
               href={GITHUB}
             />
-            <ContactCard icon="💼" label="LinkedIn" value="Connect on LinkedIn" href={LINKEDIN} />
+            <ContactCard icon="💼" label="LinkedIn" value="Shiva Sai Chiluveru" href={LINKEDIN} />
 
             {!show && (
               <button
