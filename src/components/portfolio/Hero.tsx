@@ -80,8 +80,8 @@ export function Hero() {
               View Projects
             </a>
             <a
-
               href={resumeAsset.url}
+
               download="Shivasai_Resume.pdf"
               target="_blank"
               rel="noreferrer"
