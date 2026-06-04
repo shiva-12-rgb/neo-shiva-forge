@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import { ParticleField } from "./ParticleField";
+import resumeAsset from "@/assets/Shivasai_Resume.pdf.asset.json";
+
 
 const ROLES = [
   "B.Tech CSE (AI & ML) Student",
@@ -78,15 +80,16 @@ export function Hero() {
               View Projects
             </a>
             <a
-              href="#"
-              onClick={(e) => {
-                e.preventDefault();
-                window.print();
-              }}
+
+              href={resumeAsset.url}
+              download="Shivasai_Resume.pdf"
+              target="_blank"
+              rel="noreferrer"
               className="btn-ghost rounded-xl px-6 py-3 font-semibold"
             >
               Download Resume
             </a>
+
             <a href="#contact" className="btn-ghost rounded-xl px-6 py-3 font-semibold">
               Contact Me
             </a>
