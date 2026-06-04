@@ -3,7 +3,7 @@ import { useState } from "react";
 const EMAIL = "chiluverushivasai@gmail.com";
 const PHONE = "8688648551";
 const GITHUB = "https://github.com/shiva-12-rgb";
-const LINKEDIN = "#";
+const LINKEDIN = "https://www.linkedin.com/in/shiva-sai-chiluveru-a72b09375/";
 
 export function Contact() {
   const [show, setShow] = useState(false);
