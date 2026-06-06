@@ -9,7 +9,7 @@ const projects = [
   },
   {
     title: "AI-Powered Chatbot",
-    status: "Coming Soon",
+    status: "Live",
     description:
       "Local LLM-driven conversational assistant focused on privacy and offline-first interactions.",
     stack: ["Python", "Ollama", "FastAPI"],
