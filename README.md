@@ -2,7 +2,7 @@
 
 Welcome to the source code for my personal portfolio. This project serves as my digital identity, showcasing my engineering journey, projects, and technical skill set.
 
-🔗 **Live Site:** [https://neo-shiva-forge.lovable.app](https://neo-shiva-forge.lovable.app)
+🔗 **Live Site:** https://shiva-portfolio-1.lovable.app
 
 ---
 
