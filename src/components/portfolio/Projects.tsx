@@ -16,14 +16,6 @@ const projects = [
     emoji: "🤖",
   },
   {
-    title: "DSA Visualizer Application",
-    status: "Planned",
-    description:
-      "Interactive visualization tool for sorting, searching, graph algorithms and data structure operations.",
-    stack: ["JavaScript", "Canvas", "Algorithms"],
-    emoji: "📊",
-  },
-  {
     title: "Personal Portfolio Website",
     status: "Live",
     description:
