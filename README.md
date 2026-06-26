@@ -29,7 +29,7 @@ I am **Chiluveru Shiva Sai**, a first-year B.Tech student specializing in AI & M
 | **Automated Doc Generator** | Automates README and documentation creation using Python and Ollama. | Python, Ollama, Markdown |
 | **Portfolio Website** | My futuristic, responsive personal site. | React, Tailwind, TanStack |
 | **AI Chatbot (Coming Soon)** | Privacy-focused, local LLM-driven conversational assistant. | Python, Ollama, FastAPI |
-| **DSA Visualizer (Planned)** | Interactive tool for visualizing sorting, searching, and graphs. | JavaScript, Canvas |
+|
 
 ---
 
